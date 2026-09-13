@@ -133,7 +133,7 @@ is_new_patient feature — implement and evaluate impact on model performance
 Final test set evaluation — evaluate selected model on held-out test set for the first time
 Model finalisation — select the single best model for the HealthConnect solution
 The Week 6 benchmark (RF: F1 0.636 / ROC-AUC 0.652) is the minimum threshold any Week 7 model must exceed.
-
+https://drive.google.com/drive/folders/15E3e2npqwiqAIUOLVXrqXKenUbDv_bhz?usp=drive_link
 Limitations
 Dataset is fictional — model patterns may not generalise to real clinic data
 reminder_channel has 27.3% missing values — encoding approach documented but not fully resolved
